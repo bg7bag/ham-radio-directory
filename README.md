@@ -2,6 +2,10 @@
 
 An open directory of amateur radio clubs, personal radio sites, ham media, and manufacturers, maintained openly so it does not go stale the way earlier lists did.
 
+## Why this directory exists
+
+Two earlier lists on GitHub did this job well, and neither is maintained as a club directory any more: [kyleterry/awesome-radio](https://github.com/kyleterry/awesome-radio) (2014, ham section only national association links) and [mcaserta/awesome-amateur-radio](https://github.com/mcaserta/awesome-amateur-radio) (organisations only, no club-level contacts). This directory carries that job on. The full story is on bg7bag.com: [Carrying On Two Good Lists That Stopped](https://bg7bag.com/carrying-on-two-good-lists/).
+
 The same data is published as a searchable directory on bg7bag.com: https://bg7bag.com/tools/ham-links/
 
 ## What is listed
