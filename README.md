@@ -2,7 +2,7 @@
 
 An open directory of amateur radio clubs, personal radio sites, ham media, and manufacturers, maintained openly so it does not go stale the way earlier lists did.
 
-The same data is published as a searchable directory on bg7bag.com: https://bg7bag.com/ham-links/
+The same data is published as a searchable directory on bg7bag.com: https://bg7bag.com/tools/ham-links/
 
 ## What is listed
 
