@@ -8,7 +8,7 @@ The same data is published as a searchable directory on bg7bag.com: https://bg7b
 
 Official homepages only. This directory does **not** publish email addresses.
 
-Each entry has: name, category (club, personal, media, or manufacturer), country, official website, and language.
+Each entry has: name, category (club, personal, media, or manufacturer), country, official website, language, and the month it was last verified.
 
 ## How to add, correct, or remove an entry
 
@@ -21,14 +21,14 @@ Any club, site, or outlet can ask to be corrected or removed at any time, by ema
 ## Rules
 
 - Official websites only. No email addresses, no personal contact details.
-- Every entry is verified before it is listed.
+- Every entry is verified before it is listed, and the verified month is shown.
 - Entries are added only after verification. A site that does not reply to a verification request is not listed.
 - This directory is a listing, not an endorsement.
 
 ## Data
 
 - `clubs.json` — the directory data, one object per entry.
-- Fields: `name`, `category`, `country`, `region`, `website`, `contact_page`, `language`.
+- Fields: `name`, `category`, `country`, `region`, `website`, `contact_page`, `language`, `verified` (YYYY-MM).
 
 ## License
 
