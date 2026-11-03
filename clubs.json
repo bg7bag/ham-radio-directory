@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Oldham Amateur Radio Club",
+    "category": "club",
+    "country": "United Kingdom",
+    "region": null,
+    "website": "http://www.oarc.org.uk/",
+    "contact_page": null,
+    "language": "English",
+    "verified": "2026-11"
+  },
+  {
+    "name": "Singapore Amateur Radio Transmitting Society (SARTS)",
+    "category": "club",
+    "country": "Singapore",
+    "region": null,
+    "website": "https://sarts.org.sg/",
+    "contact_page": null,
+    "language": "English",
+    "verified": "2026-11"
+  },
+  {
+    "name": "Off Grid Ham",
+    "category": "personal",
+    "country": null,
+    "region": null,
+    "website": "https://offgridham.com/",
+    "contact_page": null,
+    "language": "English",
+    "verified": "2026-11"
+  },
+  {
+    "name": "ICQ Podcast",
+    "category": "media",
+    "country": "Ireland",
+    "region": null,
+    "website": "https://www.icqpodcast.com/",
+    "contact_page": null,
+    "language": "English",
+    "verified": "2026-11"
+  },
+  {
+    "name": "Amateur Radio Daily",
+    "category": "media",
+    "country": "United States",
+    "region": null,
+    "website": "https://daily.hamweekly.com/",
+    "contact_page": null,
+    "language": "English",
+    "verified": "2026-11"
+  },
+  {
+    "name": "RTL-SDR Blog",
+    "category": "media",
+    "country": null,
+    "region": null,
+    "website": "https://www.rtl-sdr.com/",
+    "contact_page": null,
+    "language": "English",
+    "verified": "2026-11"
+  },
+  {
+    "name": "Airspy",
+    "category": "manufacturer",
+    "country": null,
+    "region": null,
+    "website": "https://airspy.com/",
+    "contact_page": null,
+    "language": "English",
+    "verified": "2026-11"
+  },
+  {
+    "name": "Bioenno Power",
+    "category": "manufacturer",
+    "country": null,
+    "region": null,
+    "website": "https://www.bioennopower.com/",
+    "contact_page": null,
+    "language": "English",
+    "verified": "2026-11"
+  }
+]
