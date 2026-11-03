@@ -1,6 +1,6 @@
 # Ham Radio Directory
 
-An open directory of amateur radio clubs, personal radio sites, ham media, and manufacturers, maintained openly so it does not go stale the way earlier lists did.
+An open directory of amateur radio clubs, personal radio sites, ham media, manufacturers, and associations, maintained openly so it does not go stale the way earlier lists did.
 
 ## Why this directory exists
 
@@ -12,7 +12,7 @@ The same data is published as a searchable directory on bg7bag.com: https://bg7b
 
 Official homepages only. This directory does **not** publish email addresses.
 
-Each entry has: name, category (club, personal, media, or manufacturer), country, official website, language, and the month it was last verified.
+Each entry has: name, category (club, personal, media, manufacturer, or association), country, official website, language, and the month it was last verified.
 
 ## How to add, correct, or remove an entry
 
