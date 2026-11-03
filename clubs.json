@@ -6,8 +6,7 @@
     "region": null,
     "website": "http://www.oarc.org.uk/",
     "contact_page": null,
-    "language": "English",
-    "verified": "2026-11"
+    "language": "English"
   },
   {
     "name": "Singapore Amateur Radio Transmitting Society (SARTS)",
@@ -16,8 +15,7 @@
     "region": null,
     "website": "https://sarts.org.sg/",
     "contact_page": null,
-    "language": "English",
-    "verified": "2026-11"
+    "language": "English"
   },
   {
     "name": "Off Grid Ham",
@@ -26,8 +24,7 @@
     "region": null,
     "website": "https://offgridham.com/",
     "contact_page": null,
-    "language": "English",
-    "verified": "2026-11"
+    "language": "English"
   },
   {
     "name": "ICQ Podcast",
@@ -36,8 +33,7 @@
     "region": null,
     "website": "https://www.icqpodcast.com/",
     "contact_page": null,
-    "language": "English",
-    "verified": "2026-11"
+    "language": "English"
   },
   {
     "name": "Amateur Radio Daily",
@@ -46,8 +42,7 @@
     "region": null,
     "website": "https://daily.hamweekly.com/",
     "contact_page": null,
-    "language": "English",
-    "verified": "2026-11"
+    "language": "English"
   },
   {
     "name": "RTL-SDR Blog",
@@ -56,8 +51,7 @@
     "region": null,
     "website": "https://www.rtl-sdr.com/",
     "contact_page": null,
-    "language": "English",
-    "verified": "2026-11"
+    "language": "English"
   },
   {
     "name": "Airspy",
@@ -66,8 +60,7 @@
     "region": null,
     "website": "https://airspy.com/",
     "contact_page": null,
-    "language": "English",
-    "verified": "2026-11"
+    "language": "English"
   },
   {
     "name": "Bioenno Power",
@@ -76,7 +69,6 @@
     "region": null,
     "website": "https://www.bioennopower.com/",
     "contact_page": null,
-    "language": "English",
-    "verified": "2026-11"
+    "language": "English"
   }
 ]
