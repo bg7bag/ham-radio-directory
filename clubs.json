@@ -78,5 +78,15 @@
     "contact_page": null,
     "language": "English",
     "verified": "2026-11"
+  },
+  {
+    "name": "Icelandic Radio Amateurs (ÍRA)",
+    "category": "association",
+    "country": "Iceland",
+    "region": null,
+    "website": "https://www.ira.is/",
+    "contact_page": null,
+    "language": "Icelandic, English",
+    "verified": "2026-11"
   }
 ]
