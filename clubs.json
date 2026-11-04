@@ -88,5 +88,35 @@
     "contact_page": null,
     "language": "Icelandic, English",
     "verified": "2026-11"
+  },
+  {
+    "name": "Radio Amateur Society of Australia (RASA)",
+    "category": "association",
+    "country": "Australia",
+    "region": null,
+    "website": "https://vkradioamateurs.org/",
+    "contact_page": null,
+    "language": "English",
+    "verified": "2026-11"
+  },
+  {
+    "name": "This Is Amateur Radio",
+    "category": "association",
+    "country": "Australia",
+    "region": null,
+    "website": "https://thisisamateurradio.com/",
+    "contact_page": null,
+    "language": "English",
+    "verified": "2026-11"
+  },
+  {
+    "name": "QRM Guru",
+    "category": "association",
+    "country": "Australia",
+    "region": null,
+    "website": "https://qrm.guru/",
+    "contact_page": null,
+    "language": "English",
+    "verified": "2026-11"
   }
 ]
