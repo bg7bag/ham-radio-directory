@@ -25,9 +25,16 @@ Any club, site, or outlet can ask to be corrected or removed at any time, by ema
 ## Rules
 
 - Official websites only. No email addresses, no personal contact details.
-- Every entry is verified before it is listed, and the verified month is shown.
-- Entries are added only after verification. A site that does not reply to a verification request is not listed.
+- Every entry is added only with the club or site's permission, and only after we have checked it by hand. We do not copy entries from other lists, and we do not add entries by scraping.
+- Permission usually comes as a reply to our email, but email is not the only way: it can also come through a submission, the site's own contact form, or a GitHub issue or pull request. In every case, no permission means no listing.
+- Every entry is verified before it is listed, and the verified month is shown. A site that does not reply to a verification request is not listed.
 - This directory is a listing, not an endorsement.
+
+## Where this directory is going
+
+This directory is still being collected and organised, and the number of entries is still growing. That is why it lives on bg7bag.com for now, and why an independent domain for it has not been decided yet.
+
+The plan is that, when the directory is large enough, it will move out of bg7bag.com to its own dedicated domain for this ham radio directory. If you have a suggestion for a good domain name for this directory, we would welcome it — please email contact@bg7bag.com or open an issue on GitHub. When the move happens, the current address will redirect, so links to this directory will not break.
 
 ## Data
 
