@@ -18,7 +18,11 @@ Each entry has: name, category (club, personal, media, manufacturer, association
 
 Email is the fastest way, and no GitHub account is needed. Just send the club or site name and its official website to contact@bg7bag.com, and we will do the rest: check that the site is live and that it is the club or site's own official website, then add it.
 
+You can also suggest a club with [this short form](https://docs.google.com/forms/d/e/1FAIpQLSfL4oMVycg5MSAW-CTKWEuv91BNxy99uddMYjEhoDFpYFMSuA/viewform) — it asks for the name, the official website, and a contact email so we can verify the suggestion with you. That email is never published.
+
 You can also open an issue or a pull request on GitHub with the same information.
+
+A suggestion does not list the entry automatically: every suggestion is checked by hand first.
 
 Any club, site, or outlet can ask to be corrected or removed at any time, by email or on GitHub, and we will do so promptly.
 
