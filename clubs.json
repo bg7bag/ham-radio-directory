@@ -128,5 +128,25 @@
     "contact_page": null,
     "language": "English",
     "verified": "2026-11"
+  },
+  {
+    "name": "Amateur Radio NSW",
+    "category": "association",
+    "country": "Australia",
+    "region": null,
+    "website": "https://www.arnsw.org.au/",
+    "contact_page": null,
+    "language": "English",
+    "verified": "2026-11"
+  },
+  {
+    "name": "Hamilton Amateur Radio Club",
+    "category": "club",
+    "country": "Canada",
+    "region": null,
+    "website": "https://www.hamiltonarc.com/",
+    "contact_page": null,
+    "language": "English",
+    "verified": "2026-11"
   }
 ]
