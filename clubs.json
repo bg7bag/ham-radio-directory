@@ -158,5 +158,25 @@
     "contact_page": null,
     "language": "English",
     "verified": "2026-11"
+  },
+  {
+    "name": "West Island Amateur Radio Club",
+    "category": "club",
+    "country": "Canada",
+    "region": null,
+    "website": "https://wiarc.ca/",
+    "contact_page": null,
+    "language": "English",
+    "verified": "2026-11"
+  },
+  {
+    "name": "Radio ZL1NZ",
+    "category": "personal",
+    "country": "New Zealand",
+    "region": null,
+    "website": "https://zl1.nz/",
+    "contact_page": null,
+    "language": "English",
+    "verified": "2026-11"
   }
 ]
