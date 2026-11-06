@@ -188,5 +188,35 @@
     "contact_page": null,
     "language": "English",
     "verified": "2026-11"
+  },
+  {
+    "name": "Furness Amateur Radio Society",
+    "category": "club",
+    "country": "United Kingdom",
+    "region": null,
+    "website": "https://fars.org.uk/",
+    "contact_page": null,
+    "language": "English",
+    "verified": "2026-11"
+  },
+  {
+    "name": "Hampden County Radio Association",
+    "category": "club",
+    "country": "United States",
+    "region": null,
+    "website": "https://www.hcra.org/",
+    "contact_page": null,
+    "language": "English",
+    "verified": "2026-11"
+  },
+  {
+    "name": "Montachusett Amateur Radio Association",
+    "category": "club",
+    "country": "United States",
+    "region": null,
+    "website": "https://www.w1gz.org/",
+    "contact_page": null,
+    "language": "English",
+    "verified": "2026-11"
   }
 ]
