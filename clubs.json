@@ -218,5 +218,45 @@
     "contact_page": null,
     "language": "English",
     "verified": "2026-11"
+  },
+  {
+    "name": "Yeovil Amateur Radio Club",
+    "category": "club",
+    "country": "United Kingdom",
+    "region": null,
+    "website": "http://yeovil-arc.com/",
+    "contact_page": null,
+    "language": "English",
+    "verified": "2026-11"
+  },
+  {
+    "name": "The Providence Radio Association",
+    "category": "club",
+    "country": "United States",
+    "region": null,
+    "website": "https://w1op.club/",
+    "contact_page": null,
+    "language": "English",
+    "verified": "2026-11"
+  },
+  {
+    "name": "North Jersey DX Association",
+    "category": "club",
+    "country": "United States",
+    "region": null,
+    "website": "https://www.njdxa.org/",
+    "contact_page": null,
+    "language": "English",
+    "verified": "2026-11"
+  },
+  {
+    "name": "South Plainfield Amateur Radio Club",
+    "category": "club",
+    "country": "United States",
+    "region": null,
+    "website": "https://www.qsl.net/nj2sp/",
+    "contact_page": null,
+    "language": "English",
+    "verified": "2026-11"
   }
 ]
