@@ -7,7 +7,8 @@
     "website": "http://www.oarc.org.uk/",
     "contact_page": null,
     "language": "English",
-    "verified": "2026-11"
+    "verified": "2026-11",
+    "source": "email"
   },
   {
     "name": "Singapore Amateur Radio Transmitting Society (SARTS)",
@@ -17,7 +18,8 @@
     "website": "https://sarts.org.sg/",
     "contact_page": null,
     "language": "English",
-    "verified": "2026-11"
+    "verified": "2026-11",
+    "source": "email"
   },
   {
     "name": "Off Grid Ham",
@@ -27,7 +29,8 @@
     "website": "https://offgridham.com/",
     "contact_page": null,
     "language": "English",
-    "verified": "2026-11"
+    "verified": "2026-11",
+    "source": "email"
   },
   {
     "name": "ICQ Podcast",
@@ -37,7 +40,8 @@
     "website": "https://www.icqpodcast.com/",
     "contact_page": null,
     "language": "English",
-    "verified": "2026-11"
+    "verified": "2026-11",
+    "source": "email"
   },
   {
     "name": "Amateur Radio Daily",
@@ -47,7 +51,8 @@
     "website": "https://daily.hamweekly.com/",
     "contact_page": null,
     "language": "English",
-    "verified": "2026-11"
+    "verified": "2026-11",
+    "source": "email"
   },
   {
     "name": "RTL-SDR Blog",
@@ -57,7 +62,8 @@
     "website": "https://www.rtl-sdr.com/",
     "contact_page": null,
     "language": "English",
-    "verified": "2026-11"
+    "verified": "2026-11",
+    "source": "email"
   },
   {
     "name": "Airspy",
@@ -67,7 +73,8 @@
     "website": "https://airspy.com/",
     "contact_page": null,
     "language": "English",
-    "verified": "2026-11"
+    "verified": "2026-11",
+    "source": "email"
   },
   {
     "name": "Bioenno Power",
@@ -77,7 +84,8 @@
     "website": "https://www.bioennopower.com/",
     "contact_page": null,
     "language": "English",
-    "verified": "2026-11"
+    "verified": "2026-11",
+    "source": "email"
   },
   {
     "name": "Icelandic Radio Amateurs (ÍRA)",
@@ -87,7 +95,8 @@
     "website": "https://www.ira.is/",
     "contact_page": null,
     "language": "Icelandic, English",
-    "verified": "2026-11"
+    "verified": "2026-11",
+    "source": "email"
   },
   {
     "name": "Radio Amateur Society of Australia (RASA)",
@@ -97,7 +106,8 @@
     "website": "https://vkradioamateurs.org/",
     "contact_page": null,
     "language": "English",
-    "verified": "2026-11"
+    "verified": "2026-11",
+    "source": "email"
   },
   {
     "name": "This Is Amateur Radio",
@@ -107,7 +117,8 @@
     "website": "https://thisisamateurradio.com/",
     "contact_page": null,
     "language": "English",
-    "verified": "2026-11"
+    "verified": "2026-11",
+    "source": "email"
   },
   {
     "name": "QRM Guru",
@@ -117,7 +128,8 @@
     "website": "https://qrm.guru/",
     "contact_page": null,
     "language": "English",
-    "verified": "2026-11"
+    "verified": "2026-11",
+    "source": "email"
   },
   {
     "name": "Central Highlands Amateur Radio Club Inc.",
@@ -127,7 +139,8 @@
     "website": "https://charc.org.au/",
     "contact_page": null,
     "language": "English",
-    "verified": "2026-11"
+    "verified": "2026-11",
+    "source": "email"
   },
   {
     "name": "Amateur Radio NSW",
@@ -137,7 +150,8 @@
     "website": "https://www.arnsw.org.au/",
     "contact_page": null,
     "language": "English",
-    "verified": "2026-11"
+    "verified": "2026-11",
+    "source": "email"
   },
   {
     "name": "Hamilton Amateur Radio Club",
@@ -147,7 +161,8 @@
     "website": "https://www.hamiltonarc.com/",
     "contact_page": null,
     "language": "English",
-    "verified": "2026-11"
+    "verified": "2026-11",
+    "source": "email"
   },
   {
     "name": "Davenport Radio Amateur Club",
@@ -157,7 +172,8 @@
     "website": "https://drac.club/",
     "contact_page": null,
     "language": "English",
-    "verified": "2026-11"
+    "verified": "2026-11",
+    "source": "email"
   },
   {
     "name": "West Island Amateur Radio Club",
@@ -167,7 +183,8 @@
     "website": "https://wiarc.ca/",
     "contact_page": null,
     "language": "English",
-    "verified": "2026-11"
+    "verified": "2026-11",
+    "source": "email"
   },
   {
     "name": "Radio ZL1NZ",
@@ -177,7 +194,8 @@
     "website": "https://zl1.nz/",
     "contact_page": null,
     "language": "English",
-    "verified": "2026-11"
+    "verified": "2026-11",
+    "source": "email"
   },
   {
     "name": "Nanaimo Amateur Radio Association",
@@ -187,7 +205,8 @@
     "website": "https://ve7na.ca/",
     "contact_page": null,
     "language": "English",
-    "verified": "2026-11"
+    "verified": "2026-11",
+    "source": "email"
   },
   {
     "name": "Furness Amateur Radio Society",
@@ -197,7 +216,8 @@
     "website": "https://fars.org.uk/",
     "contact_page": null,
     "language": "English",
-    "verified": "2026-11"
+    "verified": "2026-11",
+    "source": "email"
   },
   {
     "name": "Hampden County Radio Association",
@@ -207,7 +227,8 @@
     "website": "https://www.hcra.org/",
     "contact_page": null,
     "language": "English",
-    "verified": "2026-11"
+    "verified": "2026-11",
+    "source": "email"
   },
   {
     "name": "Montachusett Amateur Radio Association",
@@ -217,7 +238,8 @@
     "website": "https://www.w1gz.org/",
     "contact_page": null,
     "language": "English",
-    "verified": "2026-11"
+    "verified": "2026-11",
+    "source": "email"
   },
   {
     "name": "Yeovil Amateur Radio Club",
@@ -227,7 +249,8 @@
     "website": "http://yeovil-arc.com/",
     "contact_page": null,
     "language": "English",
-    "verified": "2026-11"
+    "verified": "2026-11",
+    "source": "email"
   },
   {
     "name": "The Providence Radio Association",
@@ -237,7 +260,8 @@
     "website": "https://w1op.club/",
     "contact_page": null,
     "language": "English",
-    "verified": "2026-11"
+    "verified": "2026-11",
+    "source": "email"
   },
   {
     "name": "North Jersey DX Association",
@@ -247,7 +271,8 @@
     "website": "https://www.njdxa.org/",
     "contact_page": null,
     "language": "English",
-    "verified": "2026-11"
+    "verified": "2026-11",
+    "source": "email"
   },
   {
     "name": "South Plainfield Amateur Radio Club",
@@ -257,7 +282,8 @@
     "website": "https://www.qsl.net/nj2sp/",
     "contact_page": null,
     "language": "English",
-    "verified": "2026-11"
+    "verified": "2026-11",
+    "source": "email"
   },
   {
     "name": "PART of Westford",
@@ -267,7 +293,8 @@
     "website": "https://wb1gof.org/",
     "contact_page": "https://www.wb1gof.org/contact-form/",
     "language": "English",
-    "verified": "2026-11"
+    "verified": "2026-11",
+    "source": "form"
   },
   {
     "name": "New Jersey Knights of Columbus Amateur Radio Club",
@@ -277,7 +304,8 @@
     "website": "https://nj2kc.org/",
     "contact_page": "https://nj2kc.org/contact",
     "language": "English",
-    "verified": "2026-11"
+    "verified": "2026-11",
+    "source": "form"
   },
   {
     "name": "OMIK Amateur Radio Association Inc",
@@ -287,6 +315,7 @@
     "website": "https://omikradio.org/",
     "contact_page": "https://www.omikradio.org/home/omik-officers-directors",
     "language": "English",
-    "verified": "2026-11"
+    "verified": "2026-11",
+    "source": "form"
   }
 ]
