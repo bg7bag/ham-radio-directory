@@ -317,5 +317,16 @@
     "language": "English",
     "verified": "2026-11",
     "source": "form"
+  },
+  {
+    "name": "DXer.ca",
+    "category": "media",
+    "country": "Canada",
+    "region": null,
+    "website": "https://dxer.ca/",
+    "contact_page": null,
+    "language": "English",
+    "verified": "2026-11",
+    "source": "email"
   }
 ]
