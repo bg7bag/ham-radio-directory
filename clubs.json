@@ -328,5 +328,16 @@
     "language": "English",
     "verified": "2026-11",
     "source": "email"
+  },
+  {
+    "name": "AMSAT Deutschland (AMSAT-DL)",
+    "category": "association",
+    "country": "Germany",
+    "region": null,
+    "website": "https://amsat-dl.org/",
+    "contact_page": null,
+    "language": "German, English",
+    "verified": "2026-11",
+    "source": "email"
   }
 ]
