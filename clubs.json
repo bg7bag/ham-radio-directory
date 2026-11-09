@@ -258,5 +258,35 @@
     "contact_page": null,
     "language": "English",
     "verified": "2026-11"
+  },
+  {
+    "name": "PART of Westford",
+    "category": "club",
+    "country": "United States",
+    "region": null,
+    "website": "https://wb1gof.org/",
+    "contact_page": "https://www.wb1gof.org/contact-form/",
+    "language": "English",
+    "verified": "2026-11"
+  },
+  {
+    "name": "New Jersey Knights of Columbus Amateur Radio Club",
+    "category": "club",
+    "country": "United States",
+    "region": null,
+    "website": "https://nj2kc.org/",
+    "contact_page": "https://nj2kc.org/contact",
+    "language": "English",
+    "verified": "2026-11"
+  },
+  {
+    "name": "OMIK Amateur Radio Association Inc",
+    "category": "association",
+    "country": "United States",
+    "region": null,
+    "website": "https://omikradio.org/",
+    "contact_page": "https://www.omikradio.org/home/omik-officers-directors",
+    "language": "English",
+    "verified": "2026-11"
   }
 ]
