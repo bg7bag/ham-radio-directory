@@ -372,5 +372,27 @@
     "language": "English",
     "verified": "2026-11",
     "source": "email"
+  },
+  {
+    "name": "East Kent Radio Society",
+    "category": "club",
+    "country": "United Kingdom",
+    "region": null,
+    "website": "https://www.g0ekr.org",
+    "contact_page": null,
+    "language": "English",
+    "verified": "2026-11",
+    "source": "email"
+  },
+  {
+    "name": "Rede dos Emissores Portugueses",
+    "category": "association",
+    "country": "Portugal",
+    "region": null,
+    "website": "https://www.rep.pt",
+    "contact_page": null,
+    "language": "Portuguese",
+    "verified": "2026-11",
+    "source": "form"
   }
 ]
