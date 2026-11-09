@@ -339,5 +339,16 @@
     "language": "German, English",
     "verified": "2026-11",
     "source": "email"
+  },
+  {
+    "name": "South Derbyshire & Ashby Woulds Amateur Radio Group",
+    "category": "club",
+    "country": "United Kingdom",
+    "region": null,
+    "website": "https://www.sdawarg.org",
+    "contact_page": "https://www.sdawarg.org/contact.html",
+    "language": "English",
+    "verified": "2026-11",
+    "source": "form"
   }
 ]
