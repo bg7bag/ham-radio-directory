@@ -350,5 +350,27 @@
     "language": "English",
     "verified": "2026-11",
     "source": "form"
+  },
+  {
+    "name": "Central New Hampshire Amateur Radio Club",
+    "category": "club",
+    "country": "United States",
+    "region": null,
+    "website": "https://www.cnharc.org",
+    "contact_page": null,
+    "language": "English",
+    "verified": "2026-11",
+    "source": "email"
+  },
+  {
+    "name": "Eastern and Mountain District Radio Club Inc",
+    "category": "club",
+    "country": "Australia",
+    "region": null,
+    "website": "https://www.emdrc.com.au",
+    "contact_page": null,
+    "language": "English",
+    "verified": "2026-11",
+    "source": "email"
   }
 ]
