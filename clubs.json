@@ -394,5 +394,16 @@
     "language": "Portuguese",
     "verified": "2026-11",
     "source": "form"
+  },
+  {
+    "name": "Amateur Radio Victoria",
+    "category": "association",
+    "country": "Australia",
+    "region": null,
+    "website": "https://amateurradio.com.au",
+    "contact_page": null,
+    "language": "English",
+    "verified": "2026-11",
+    "source": "email"
   }
 ]
