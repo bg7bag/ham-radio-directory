@@ -405,5 +405,16 @@
     "language": "English",
     "verified": "2026-11",
     "source": "email"
+  },
+  {
+    "name": "Deutscher Amateur-Radio-Club e.V.",
+    "category": "association",
+    "country": "Germany",
+    "region": null,
+    "website": "https://www.darc.de",
+    "contact_page": "https://www.darc.de/hilfe/kontakt-support/#c297231",
+    "language": "German",
+    "verified": "2026-11",
+    "source": "form"
   }
 ]
