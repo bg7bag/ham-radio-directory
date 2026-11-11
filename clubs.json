@@ -416,5 +416,16 @@
     "language": "German",
     "verified": "2026-11",
     "source": "form"
+  },
+  {
+    "name": "Auckland VHF Group Inc",
+    "category": "club",
+    "country": "New Zealand",
+    "region": null,
+    "website": "https://aucklandvhf.org/",
+    "contact_page": null,
+    "language": "English",
+    "verified": "2026-11",
+    "source": "form"
   }
 ]
