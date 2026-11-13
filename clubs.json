@@ -438,5 +438,16 @@
     "language": "English",
     "verified": "2026-11",
     "source": "email"
+  },
+  {
+    "name": "East Kootenay Amateur Radio Club",
+    "category": "club",
+    "country": "Canada",
+    "region": null,
+    "website": "https://ekarc.ca/",
+    "contact_page": null,
+    "language": "English",
+    "verified": "2026-11",
+    "source": "email"
   }
 ]
