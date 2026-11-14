@@ -449,5 +449,71 @@
     "language": "English",
     "verified": "2026-11",
     "source": "email"
+  },
+  {
+    "name": "Burlington County Radio Club",
+    "category": "club",
+    "country": "United States",
+    "region": null,
+    "website": "https://www.k2td-bcrc.org",
+    "contact_page": "https://sites.google.com/view/k2td-bcrc/about/contact-us?authuser=0",
+    "language": "English",
+    "verified": "2026-11",
+    "source": "form"
+  },
+  {
+    "name": "Aberkenfig & District Amateur Radio Club",
+    "category": "club",
+    "country": "United Kingdom",
+    "region": null,
+    "website": "https://www.aberkenfigradioclub.com",
+    "contact_page": "https://www.aberkenfigradioclub.com/contact-us/",
+    "language": "English",
+    "verified": "2026-11",
+    "source": "form"
+  },
+  {
+    "name": "Lowestoft District & Pye Amateur Radio Club",
+    "category": "club",
+    "country": "United Kingdom",
+    "region": null,
+    "website": "http://ldparc.co.uk",
+    "contact_page": null,
+    "language": "English",
+    "verified": "2026-11",
+    "source": "form"
+  },
+  {
+    "name": "Ulm (P14) Deutscher Amateur Radio Club",
+    "category": "club",
+    "country": "Germany",
+    "region": null,
+    "website": "https://p14.darc.de",
+    "contact_page": "https://p14.darc.de/vorstand-und-funktionstraeger/",
+    "language": "German",
+    "verified": "2026-11",
+    "source": "form"
+  },
+  {
+    "name": "South Bristol Amateur Radio Club",
+    "category": "club",
+    "country": "United Kingdom",
+    "region": null,
+    "website": "https://www.sbarc.co.uk",
+    "contact_page": null,
+    "language": "English",
+    "verified": "2026-11",
+    "source": "form"
+  },
+  {
+    "name": "Peterborough Amateur Radio Club",
+    "category": "club",
+    "country": "Canada",
+    "region": null,
+    "website": "https://www.ve3pbo.ca",
+    "contact_page": null,
+    "language": "English",
+    "verified": "2026-11",
+    "source": "form"
   }
 ]
