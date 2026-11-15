@@ -515,5 +515,16 @@
     "language": "English",
     "verified": "2026-11",
     "source": "form"
+  },
+  {
+    "name": "Backnang (P01) Deutscher Amateur Radio Club",
+    "category": "club",
+    "country": "Germany",
+    "region": null,
+    "website": "https://www.darc.de/p01",
+    "contact_page": null,
+    "language": "German",
+    "verified": "2026-11",
+    "source": "email"
   }
 ]
