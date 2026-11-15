@@ -526,5 +526,16 @@
     "language": "German",
     "verified": "2026-11",
     "source": "email"
+  },
+  {
+    "name": "Leiston Amateur Radio Club",
+    "category": "club",
+    "country": "United Kingdom",
+    "region": null,
+    "website": "https://www.larc.org.uk",
+    "contact_page": null,
+    "language": "English",
+    "verified": "2026-11",
+    "source": "email"
   }
 ]
