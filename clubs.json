@@ -548,5 +548,93 @@
     "language": "English",
     "verified": "2026-11",
     "source": "email"
+  },
+  {
+    "name": "HacDC Amateur Radio Club",
+    "category": "club",
+    "country": "United States",
+    "region": null,
+    "website": "https://www.w3hac.org/",
+    "contact_page": null,
+    "language": "English",
+    "verified": "2026-11",
+    "source": "email"
+  },
+  {
+    "name": "Cowichan Valley Amateur Radio Society",
+    "category": "club",
+    "country": "Canada",
+    "region": "British Columbia",
+    "website": "https://www.cvars.ca/",
+    "contact_page": "https://www.cvars.ca/contact.php",
+    "language": "English",
+    "verified": "2026-11",
+    "source": "form"
+  },
+  {
+    "name": "OV Taubertal-Mitte, P56, DARC e.V.",
+    "category": "club",
+    "country": "Germany",
+    "region": "Württemberg",
+    "website": "https://www.p56.de",
+    "contact_page": null,
+    "language": "German",
+    "verified": "2026-11",
+    "source": "form"
+  },
+  {
+    "name": "Salt Spring Island Amateur Radio Society",
+    "category": "club",
+    "country": "Canada",
+    "region": "British Columbia",
+    "website": "https://www.ssiarc.ca/",
+    "contact_page": "https://www.ssiarc.ca/contacts.php",
+    "language": "English",
+    "verified": "2026-11",
+    "source": "form"
+  },
+  {
+    "name": "Longmont Amateur Radio Club",
+    "category": "club",
+    "country": "United States",
+    "region": "Colorado",
+    "website": "https://w0eno.org",
+    "contact_page": "https://w0eno.org/contact-us/",
+    "language": "English",
+    "verified": "2026-11",
+    "source": "form"
+  },
+  {
+    "name": "South Lyon Area Amateur Radio Club",
+    "category": "club",
+    "country": "United States",
+    "region": "Michigan",
+    "website": "https://www.slaarc.com/",
+    "contact_page": null,
+    "language": "English",
+    "verified": "2026-11",
+    "source": "form"
+  },
+  {
+    "name": "Kalamazoo Amateur Radio Club",
+    "category": "club",
+    "country": "United States",
+    "region": "Michigan",
+    "website": "https://w8vy.org",
+    "contact_page": null,
+    "language": "English",
+    "verified": "2026-11",
+    "source": "form"
+  },
+  {
+    "name": "Eastern Michigan Amateur Radio Club",
+    "category": "club",
+    "country": "United States",
+    "region": "Michigan",
+    "website": "https://emarc.us",
+    "contact_page": null,
+    "language": "English",
+    "verified": "2026-11",
+    "source": "form"
   }
 ]
