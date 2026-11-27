@@ -636,5 +636,104 @@
     "language": "English",
     "verified": "2026-11",
     "source": "form"
+  },
+  {
+    "name": "Rostock-Mitte (V02) Deutscher Amateur Radio Club",
+    "category": "club",
+    "country": "Germany",
+    "region": "Mecklenburg-Vorpommern",
+    "website": "https://www.darc.de/der-club/distrikte/v/ortsverbaende/02/",
+    "contact_page": null,
+    "language": "German",
+    "verified": "2026-11",
+    "source": "email"
+  },
+  {
+    "name": "UBA Section KTK, Kortrijk",
+    "category": "club",
+    "country": "Belgium",
+    "region": "Kortrijk",
+    "website": null,
+    "contact_page": null,
+    "language": "Dutch",
+    "verified": "2026-11",
+    "source": "email"
+  },
+  {
+    "name": "UBA Section LGE, Liège",
+    "category": "club",
+    "country": "Belgium",
+    "region": "Liège",
+    "website": "https://on5vl.org",
+    "contact_page": null,
+    "language": "French",
+    "verified": "2026-11",
+    "source": "email"
+  },
+  {
+    "name": "Capital City Amateur Radio Club (N7RB)",
+    "category": "club",
+    "country": "United States",
+    "region": "Montana",
+    "website": "https://www.n7rb.org",
+    "contact_page": null,
+    "language": "English",
+    "verified": "2026-11",
+    "source": "email"
+  },
+  {
+    "name": "QRPer",
+    "category": "personal",
+    "country": "United States",
+    "region": null,
+    "website": "https://qrper.com",
+    "contact_page": null,
+    "language": "English",
+    "verified": "2026-11",
+    "source": "email"
+  },
+  {
+    "name": "Bury Radio Society",
+    "category": "club",
+    "country": "United Kingdom",
+    "region": "Bury, Greater Manchester",
+    "website": "https://www.buryradiosociety.org.uk/",
+    "contact_page": null,
+    "language": "English",
+    "verified": "2026-11",
+    "source": "email"
+  },
+  {
+    "name": "VERON Afdeling Meppel (A32)",
+    "category": "club",
+    "country": "Netherlands",
+    "region": "Meppel",
+    "website": "https://a32.veron.nl/",
+    "contact_page": null,
+    "language": "Dutch",
+    "verified": "2026-11",
+    "source": "email"
+  },
+  {
+    "name": "Angel of the North Amateur Radio Club (MX0GGP)",
+    "category": "club",
+    "country": "United Kingdom",
+    "region": "Tyne and Wear",
+    "website": "http://anarc.net/",
+    "contact_page": null,
+    "language": "English",
+    "verified": "2026-11",
+    "source": "email"
+  },
+  {
+    "name": "Weston-super-Mare Radio Society",
+    "category": "club",
+    "country": "United Kingdom",
+    "region": "North Somerset",
+    "website": "https://www.g4wsm.club/",
+    "contact_page": null,
+    "language": "English",
+    "verified": "2026-11",
+    "source": "email"
   }
 ]
